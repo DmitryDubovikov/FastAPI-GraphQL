@@ -39,10 +39,8 @@ Open your browser or any GraphQL client (such as GraphiQL) and navigate to http:
 ### Sample Query:
 
    ```graphql
-   query {
      user {
        name
        age
      }
-   }
    ```
