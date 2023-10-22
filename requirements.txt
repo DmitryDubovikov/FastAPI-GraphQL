@@ -1,0 +1,4 @@
+fastapi==0.104.0
+strawberry-graphql==0.209.8
+uvicorn==0.23.2
+
